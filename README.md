@@ -24,3 +24,26 @@ To use data analytics and visualization techniques to monitor retail sales, prof
 - <a href="https://github.com/komaldongare207/Retail-Inventory-Management-Dashboard/blob/main/retail_store_inventory%20excel%20dataset.csv">Retail-Inventory-Management-Dataset</a>
 ## Project File
 - <a href="https://github.com/komaldongare207/Retail-Inventory-Management-Dashboard/blob/main/Retail%20Inventory%20management.pbix">Retail-Inventory-Management.pbix</a>
+## Dashboard
+- <a href="https://github.com/komaldongare207/Retail-Inventory-Management-Dashboard/blob/main/Retail%20Inventory%20Management%20Dashboard.png">Dashboard</a>
+## Dashboard Insights
+- Total Sales
+- Total Profit
+- Profit Margin
+- Inventory Remaining
+- Category-wise Sales
+- Region-wise Profit
+- Store-wise Units Sold
+- Sales Trends
+- Promotion Impact
+## Future Scope
+- Real-time inventory tracking
+- Low-stock alerts
+- Inventory demand forecasting
+- Sales prediction using Machine Learning
+- Automated inventory replenishment
+- Advanced customer and product analysis
+## Conclusion
+This Retail Inventory Management Dashboard provides a clear view of sales, profitability, inventory, store, regional, and promotional performance through interactive data visualization. The project demonstrates how Power BI can transform retail data into meaningful business insights and support data-driven decision-making.
+## Author
+Komal Dongare
