@@ -1,2 +1,2 @@
 # Retail-Inventory-Management-Dashboard
-Interactive Retail Inventory Management Dashboard built using Power BI to analyze sales, profit, inventory, store performance, regional performance, sales trends, and promotion impact.
+This project presents a Retail Inventory Management Dashboard developed using Power BI to analyze sales, profit, inventory, store performance, regional performance, and promotional impact. The dashboard provides interactive insights into key business metrics and helps identify sales trends, profitable regions, store-wise performance, and inventory status for better retail decision-making.
