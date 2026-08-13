@@ -27,6 +27,7 @@ To use data analytics and visualization techniques to monitor retail sales, prof
 ## Dashboard
 ![Uploading Retail Inventory Management Dashboard.png…]()
 
+
 ## Dashboard Insights
 - Total Sales
 - Total Profit
