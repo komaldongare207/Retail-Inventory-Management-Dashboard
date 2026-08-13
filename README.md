@@ -25,7 +25,8 @@ To use data analytics and visualization techniques to monitor retail sales, prof
 ## Project File
 - <a href="https://github.com/komaldongare207/Retail-Inventory-Management-Dashboard/blob/main/Retail%20Inventory%20management.pbix">Retail-Inventory-Management.pbix</a>
 ## Dashboard
-- <a href="https://github.com/komaldongare207/Retail-Inventory-Management-Dashboard/blob/main/Retail%20Inventory%20Management%20Dashboard.png">Dashboard</a>
+![Uploading Retail Inventory Management Dashboard.png…]()
+
 ## Dashboard Insights
 - Total Sales
 - Total Profit
