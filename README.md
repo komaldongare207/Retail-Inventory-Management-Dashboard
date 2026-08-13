@@ -21,6 +21,6 @@ To use data analytics and visualization techniques to monitor retail sales, prof
 - Data Modeling
 - Data Visualization
 ## Dataset Used
-- <a href="https://github.com/komaldongare207/Retail-Inventory-Management-Dashboard/blob/main/retail_store_inventory%20excel%20dataset.csv">/Retail-Inventory-Management-Dataset</a>
+- <a href="https://github.com/komaldongare207/Retail-Inventory-Management-Dashboard/blob/main/retail_store_inventory%20excel%20dataset.csv">Retail-Inventory-Management-Dataset</a>
 ## Project File
-
+- <a href="https://github.com/komaldongare207/Retail-Inventory-Management-Dashboard/blob/main/Retail%20Inventory%20management.pbix">Retail-Inventory-Management.pbix</a>
