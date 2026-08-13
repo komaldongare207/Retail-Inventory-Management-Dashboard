@@ -13,3 +13,11 @@ To use data analytics and visualization techniques to monitor retail sales, prof
 - Promotion Impact Analysis
 - Interactive Filters & Slicers
 - KPI Cards for Business Metrics
+## Tools & Technologies
+- Power BI
+- Power Query
+- DAX
+- Microsoft Excel / CSV
+- Data Modeling
+- Data Visualization
+## Dataset Used
