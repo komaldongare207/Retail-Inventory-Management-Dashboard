@@ -3,13 +3,13 @@ This project presents a Retail Inventory Management Dashboard developed using Po
 ## Project Objective
 To use data analytics and visualization techniques to monitor retail sales, profitability, inventory levels, and store performance through an interactive Power BI dashboard.
 ## Key Features
--Sales & Profit Performance Analysis
--Profit Margin Analysis
--Inventory Remaining Analysis
--Sales by Category
--Profit by Region
--Store-wise Units Sold Analysis
--Sales Trend Analysis
--Promotion Impact Analysis
--Interactive Filters & Slicers
--KPI Cards for Business Metrics
+- Sales & Profit Performance Analysis
+- Profit Margin Analysis
+- Inventory Remaining Analysis
+- Sales by Category
+- Profit by Region
+- Store-wise Units Sold Analysis
+- Sales Trend Analysis
+- Promotion Impact Analysis
+- Interactive Filters & Slicers
+- KPI Cards for Business Metrics
